@@ -1,0 +1,22 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_pages": 2015,
+  "baidu_pages": 2015,
+  "movie_cards_in_category_pages": 2000,
+  "category_coverage": {
+    "片库精选": 200,
+    "热播剧场": 200,
+    "最新更新": 200,
+    "高清频道": 200,
+    "免费专区": 200,
+    "口碑佳作": 200,
+    "全集连播": 200,
+    "周末片单": 200,
+    "年度精选": 200,
+    "新锐剧场": 200
+  },
+  "missing_local_links": [],
+  "jpg_files_in_zip_source": []
+}
